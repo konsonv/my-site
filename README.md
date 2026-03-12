@@ -1,8 +1,19 @@
 # my-site
 My my-site project
 
-## Contributing
+## Features
+- Feature 1: Describe feature 1
+- Feature 2: Describe feature 2
 
+## Technologies
+- Technology 1
+- Technology 2
+
+## Usage
+- Step 1: Describe how to use the project
+- Step 2: Describe how to use the project
+
+## Contributing
 Contributions are welcome! Please feel free to submit a Pull Request.
 
 1. Fork the project
